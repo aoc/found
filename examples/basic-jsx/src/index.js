@@ -1,8 +1,8 @@
 import createBrowserRouter from 'found/lib/createBrowserRouter';
 import Link from 'found/lib/Link';
+import Redirect from 'found/lib/Redirect';
+import Route from 'found/lib/Route';
 import makeRouteConfig from 'found/lib/jsx/makeRouteConfig';
-import Redirect from 'found/lib/jsx/Redirect';
-import Route from 'found/lib/jsx/Route';
 import React from 'react';
 import ReactDOM from 'react-dom';
 

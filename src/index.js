@@ -23,4 +23,5 @@ export Redirect from './Redirect';
 export RedirectException from './RedirectException';
 export resolveElements from './resolveElements';
 export ResolverUtils from './ResolverUtils';
+export Route from './Route';
 export withRouter from './withRouter';
